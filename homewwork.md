@@ -1,3 +1,5 @@
+ What is Recursion in JavaScript
+
  In this example we will be implementing a number decrement counter which decrements the value by one and prints all the numbers in a decreasing order one after another.
  ```<script>
 	let decrementCounter = (number) => {
@@ -23,6 +25,9 @@
 	console.log(checkNumber(13333));
 </script>
 ```
+
+What is Closure in JavaScript
+
 A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function. In JavaScript, closures are created every time a function is created, at function creation time.
 
 Consider the following example code:
